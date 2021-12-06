@@ -6,12 +6,16 @@ GoAnimate Reborn was created to revive most of the goanimate website from June 1
 
 # Q&A
 
-Q. Does this have a heroku version.
+Q. Whats the password for the project?
+
+A. projectgareborn
+
+Q. Does this have a heroku version?
 
 A. No, not yet, do not host a heroku version without my permission.
 
 
-Q. What template was this used from.
+Q. What template was this used from?
 
 A. https://github.com/mrnick2005/GoAnimate-Legacy-Redesigned-Beta1.0-1
 
@@ -19,3 +23,7 @@ A. https://github.com/mrnick2005/GoAnimate-Legacy-Redesigned-Beta1.0-1
 Q. What server does this LVM use?
 
 A. https://goanimate2016.github.io/GoAnimate-2016-Assets/
+
+Q. Why is this project password-protected?
+
+A. to prevent people from stealing it, if you got a project from github, you open start.exe and the password is projectgareborn, then they stole it.
