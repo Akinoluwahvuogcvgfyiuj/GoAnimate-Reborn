@@ -7,10 +7,13 @@ GoAnimate Reborn was created to revive most of the goanimate website from June 1
 #Q&A
 
 Q. Does this have a heroku version.
+
 A. No, not yet, do not host a heroku version without my permission.
 
 Q. What template was this used from.
+
 A. https://github.com/mrnick2005/GoAnimate-Legacy-Redesigned-Beta1.0-1
 
 Q. What server does this LVM use?
+
 A. https://goanimate2016.github.io/GoAnimate-2016-Assets/
