@@ -4,7 +4,7 @@ A GoAnimate LVM that is GoAnimate 2016, but with modded servers.
 # About
 GoAnimate Reborn was created to revive most of the goanimate website from June 14, 2016, most of the project requires an Internet Connection, for choosing a videomaker and connecting to the servers, GoAnimate Reborn is a free MIT license software that was not made from GoAnimate Wrapper's template.
 
-#Q&A
+# Q&A
 
 Q. Does this have a heroku version.
 
